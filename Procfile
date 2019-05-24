@@ -1,1 +1,1 @@
-web: php -S https://qqq-sandbox.herokuapp.com:$PORT
+web: php -S localhost:$PORT
